@@ -1,14 +1,16 @@
 ## **🖥️**  Chitty Chatty
-- 채팅방을 만들어 다른 유저와 채팅을 할 수 있는 앱
+- 채팅방을 만들거나 입장하여 다른 유저들과 채팅을 할 수 있는 앱
   <br>  <br> 
 
 ### **📌** 개발환경
 
-- JavaScript
+- **Language** : JavaScript
 
 - **IDE** : VSCode
 
-- **FrameWork** : Socket IO 
+- **FrameWork** : Socket IO
+
+- **Protocol** : WebSocket 
 <br> 
 
 ### **📌** Code
